@@ -10,4 +10,4 @@ Le pricer s'utilise comme suit :
 1) Il faut tout d'abord entrer le sens de l'option (call/put), ses caractéristiques en respectant le format donné en exemple, ainsi que le type de l'optio (européenne ou américaine). 
 2) Pour lancer le calcul, cliquer sur le bouton "Let's price it!"
 3) Une fenêtre contenant un graphique apparait. Pour les options européennes, il permet de comparer le prix trouvé par chacun des modèles. Les prix exacts sont affichés dans la légende du graphique.
-
+Si vous lancez le code depuis Spyder, il se peut que cette fenêtre apparaisse dans l'application Spyder (selon vos paramètres). Le mieux est donc de lancer le fichier python (.py) directement dans votre terminal. 
